@@ -1,5 +1,7 @@
-![image](https://user-images.githubusercontent.com/68082556/166390610-3894c483-762b-4032-bd34-86812903e199.png)
-![image](https://user-images.githubusercontent.com/68082556/166390681-0e0b31c1-1dd9-4c9a-9dae-54b9850d707d.png)
+![image](https://user-images.githubusercontent.com/68082556/166587660-e69a23f9-2bd4-4f76-bde7-96bc18617380.png)
+![image](https://user-images.githubusercontent.com/68082556/166587738-af367a55-cad4-4619-a401-7f473c30dbba.png)
+![image](https://user-images.githubusercontent.com/68082556/166587783-2e4a6cba-fe0b-40c1-93e6-a3fd95209503.png)
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
